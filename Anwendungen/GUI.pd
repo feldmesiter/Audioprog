@@ -1,0 +1,2 @@
+#N canvas -7 0 840 988 16;
+#X obj 95 14 CompleteSynth;
