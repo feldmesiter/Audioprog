@@ -1,5 +1,5 @@
 # Audioprog
-Audioprogrammierung synthesizer project
+Audioprogrammierung synthesizer project:
 Jan Nietfelds Synthesizer 
 Dieser Sytnhesizer ist eine kombination aus einem Stylophone und der Eulerschen Musiktheorie.
 
