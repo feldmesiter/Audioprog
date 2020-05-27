@@ -55,3 +55,4 @@ Erklärung der Elemente in GUI.pd:
 
 Viel spaß mit meinem Synthesizer
 bei nachfragen und anregungen bin ich erreichbar unter jannietfeld@gmail.com
+Lizenz: Creative Commons
